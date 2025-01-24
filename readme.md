@@ -1,3 +1,3 @@
 # Hello, world!
 
-[жопа](https://2ch.hk)
+[google](https://google.com)
